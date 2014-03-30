@@ -76,3 +76,12 @@ Experience
     * as part of a small startup team, also had customer assistance
       responsibilities
 
+Education
+---------
+* __1999 – 2003:__ B.Sc. in Computer Science, “Al. I. Cuza” University, Iasi,
+  Romania
+* __2001 – 2002:__ Socrates scholarship at Technical College of Computer Science
+  and Telecommunications, Granada, Spain
+* __2003 – 2004:__ graduate studies in Computational Linguistics at
+  “Al. I. Cuza” University, Iasi, Romania
+
