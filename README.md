@@ -1,7 +1,7 @@
 Victor Grigoriu
 ===============
 
-vgrigoriu@gmail.com  
+vgrigoriu@gmail.com
 +4 0751 369 848
 
 Objective
@@ -45,3 +45,24 @@ Experience
     * responsible for running automated tests and triaging results
     * fixed bugs in the automation code and re-wrote some parts from scratch
     * used WTT, ASI, C#, cmd, Product Studio, sd, etc.
+* __November 2006 – October 2008:__ Software Developer Engineer in Enterprise
+  Search Group, Microsoft Corp., Redmond WA.
+    * responsible for the upgrade infrastructure code (plan, design, develop,
+      integrate, unit test etc.)
+    * investigated customer issues, suggesting solutions and providing hotfixes
+    * in charge of the code quality tools used by the whole team (FxCop, PREfast
+      etc.)
+    * fixed bugs in various product areas during stabilization periods
+    * prototyped setup & upgrade automation using PowerShell & Hyper-V
+    * used WiX for MSI authoring
+    * most of the time using C#, with a dash of C++ and SQL
+* __October 2004 – November 2006:__ Software Developer Engineer for Office
+  SharePoint Server 2007, Microsoft Corp., Redmond WA.
+    * worked in the Content Management Server team
+    * designed and implemented a web-based HTML editor and spell checker
+    * helped the test team to write automated tests for thefeatures
+    * languages & technologies used included HTML, CSS & JavaScript (AJAX)
+      for the client-side and C# & ASP.NET on the server, SOAP & Web Services
+      for communication, C++ & P/Invoke on the backend
+    * wrote FxCop rules to improve code quality across team and coached others to
+      write their own rules
