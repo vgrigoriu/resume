@@ -85,3 +85,8 @@ Education
 * __2003 – 2004:__ graduate studies in Computational Linguistics at
   “Al. I. Cuza” University, Iasi, Romania
 
+Languages
+---------
+* Romanian: native
+* English: highly proficient
+* French, Spanish, German: basic understanding
