@@ -66,3 +66,13 @@ Experience
       for communication, C++ & P/Invoke on the backend
     * wrote FxCop rules to improve code quality across team and coached others to
       write their own rules
+* __April 2003 – August 2004:__ Programmer, Venus Technologies Provider, Iasi,
+  Romania.
+    * worked on a suite of CAD programs for apparel design, using Borland C++
+      Builder
+    * responsible for designing, developing and testing (manual & automation)
+      various parts of the software, especially finding heuristics for pattern
+      nesting
+    * as part of a small startup team, also had customer assistance
+      responsibilities
+
