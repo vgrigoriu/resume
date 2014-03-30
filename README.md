@@ -6,7 +6,8 @@ vgrigoriu@gmail.com
 
 Objective
 ---------
-* to build great teams and great software
+* to keep learning about software engineering while building great software and
+  great teams
 
 Experience
 ----------
