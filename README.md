@@ -11,16 +11,16 @@ Objective
 
 Experience
 ----------
-* __July 2013 - present:__ Software Governance Manager at TeamNet,
+* __July 2013 - present:__ Senior Technical Lead at TeamNet,
   Bucharest, Romania
     * responsible for software development quality across the organization
-      (~100 developers)
+      (100+ developers)
     * motivated & helped all the teams to adopt automated testing, continuous
       integration and deployment, static code analysis and other best practices
     * organized various presentations, book clubs, code katas and other
       knowledge-sharing events
-    * organized Zero to Hero, a one-month boot camp to teach computer science
-      students about software development in the real world
+    * organized each year Zero to Hero, a one-month boot camp to teach computer
+      science students about software development in the real world
 * __October 2009 – July 2013:__ Lead Software Developer at TeamNet, Bucharest,
   Romania.
     * led the team that successfully built & implemented the GIS software used
