@@ -61,7 +61,7 @@ Experience
   SharePoint Server 2007, Microsoft Corp., Redmond WA.
     * worked in the Content Management Server team
     * designed and implemented a web-based HTML editor and spell checker
-    * helped the test team to write automated tests for thefeatures
+    * helped the test team to write automated tests for the features
     * languages & technologies used included HTML, CSS & JavaScript (AJAX)
       for the client-side and C# & ASP.NET on the server, SOAP & Web Services
       for communication, C++ & P/Invoke on the backend
