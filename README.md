@@ -13,10 +13,13 @@ Experience
 ----------
 * __July 2013 - present:__ Senior Technical Lead at TeamNet,
   Bucharest, Romania
+    * software architect for the end-to-end solution that replaced the Romanian
+      112 emergency call handling system
     * responsible for software development quality across the organization
       (100+ developers)
-    * motivated & helped all the teams to adopt automated testing, continuous
-      integration and deployment, static code analysis and other best practices
+    * motivated & helped all the teams to adopt cdeo review, automated testing,
+      continuous integration and deployment, static code analysis and other best
+      practices
     * organized various presentations, book clubs, code katas and other
       knowledge-sharing events
     * organized each year Zero to Hero, a one-month boot camp to teach computer
