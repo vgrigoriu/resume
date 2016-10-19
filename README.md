@@ -14,7 +14,7 @@ Experience
 * __July 2013 - present:__ Senior Technical Lead at TeamNet,
   Bucharest, Romania
     * software architect for the end-to-end solution that replaced the Romanian
-      112 emergency call handling system
+      112 emergency call handling system in Bucharest
     * responsible for software development quality across the organization
       (100+ developers)
     * motivated & helped all the teams to adopt cdeo review, automated testing,
