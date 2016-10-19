@@ -17,7 +17,7 @@ Experience
       112 emergency call handling system in Bucharest
     * responsible for software development quality across the organization
       (100+ developers)
-    * motivated & helped all the teams to adopt cdeo review, automated testing,
+    * motivated & helped all the teams to adopt code review, automated testing,
       continuous integration and deployment, static code analysis and other best
       practices
     * organized various presentations, book clubs, code katas and other
