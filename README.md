@@ -11,7 +11,8 @@ Objective
 
 Experience
 ----------
-* __July 2013 - present:__ Senior Technical Lead at TeamNet,
+* __April 2017 - Present:__ Dev Lead at Endava Technologies, Bucharest, Romania
+* __July 2013 - April 2017:__ Senior Technical Lead at TeamNet,
   Bucharest, Romania
     * software architect for the end-to-end solution that replaced the Romanian
       112 emergency call handling system in Bucharest
