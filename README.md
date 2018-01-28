@@ -14,7 +14,11 @@ Experience
 * __April 2017 - Present:__ Dev Lead at Endava Technologies, Bucharest, Romania
     * led a team of 8 (dev & QA) in implementing EU Funds Transfer Regulation
       for Worldpay, a payments company
+    * this involved understanding and making changes in a complex system made
+      of several web sites, web services, Windows services and databases
     * we also improved the performance and availability of the overall system
+    * I proposed and implemented cross-team improvements to the software
+      development lifecycle
 * __July 2013 - April 2017:__ Senior Technical Lead at TeamNet,
   Bucharest, Romania
     * software architect for the end-to-end solution that replaced the Romanian
