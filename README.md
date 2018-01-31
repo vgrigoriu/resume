@@ -11,7 +11,7 @@ Objective
 
 Experience
 ----------
-* __Technical Dev Lead at Endava Technologies, Bucharest, Romania__ (_April 2017 - Present_)
+* __Technical Dev Lead__ at __Endava Technologies, Bucharest, Romania__ (_April 2017 - Present_)
     * led a team of 8 (dev & QA) in implementing EU Funds Transfer Regulation
       for Worldpay, a payments company
     * this involved understanding and making changes in a complex system made
@@ -19,7 +19,7 @@ Experience
     * we also improved the performance and availability of the overall system
     * I proposed and implemented cross-team improvements to the software
       development lifecycle
-* __Senior Technical Lead at TeamNet, Bucharest, Romania__ (_July 2013 - April 2017_)
+* __Senior Technical Lead__ at __TeamNet, Bucharest, Romania__ (_July 2013 - April 2017_)
     * software architect for the end-to-end solution that replaced the Romanian
       112 emergency call handling system in Bucharest
     * responsible for software development quality across the organization
@@ -31,7 +31,7 @@ Experience
       knowledge-sharing events
     * organized each year Zero to Hero, a one-month boot camp to teach computer
       science students about software development in the real world
-* __Lead Software Developer at TeamNet, Bucharest, Romania__ (_October 2009 – July 2013_)
+* __Lead Software Developer__ at __TeamNet, Bucharest, Romania__ (_October 2009 – July 2013_)
     * led the team that successfully built & implemented the GIS software used
       daily by the emergency agencies (112, equivalent to 911) in Romania
     * transformed this project into a product, so that it can be easily
@@ -43,7 +43,7 @@ Experience
     * hands-on coding, but also coaching & mentoring of other team members
     * worked daily with the client to understand their needs and requirements
     * helped other teams in the company deliver their projects on time
-* __Software Developer Engineer in Enterprise Search Group at Microsoft, Redmond, WA__ (_November 2006 – October 2008_)
+* __Software Developer Engineer in Enterprise Search Group__ at __Microsoft, Redmond, WA__ (_November 2006 – October 2008_)
     * responsible for the upgrade infrastructure code (plan, design, develop,
       integrate, unit test etc.)
     * investigated customer issues, suggesting solutions and providing hotfixes
@@ -53,7 +53,7 @@ Experience
     * prototyped setup & upgrade automation using PowerShell & Hyper-V
     * used WiX for MSI authoring
     * most of the time using C#, with a dash of C++ and SQL
-* __Software Developer Engineer for Office SharePoint Server 2007 at Microsoft, Redmond, WA__ (_October 2004 – November 2006_)
+* __Software Developer Engineer for Office SharePoint Server 2007__ at __Microsoft, Redmond, WA__ (_October 2004 – November 2006_)
     * worked in the Content Management Server team
     * designed and implemented a web-based HTML editor and spell checker
     * helped the test team to write automated tests for the features
@@ -62,7 +62,7 @@ Experience
       for communication, C++ & P/Invoke on the backend
     * wrote FxCop rules to improve code quality across team and coached others to
       write their own rules
-* __Programmer at Venus Technologies Provider, Iasi, Romania__ (_April 2003 – August 2004_)
+* __Programmer__ at __Venus Technologies Provider, Iasi, Romania__ (_April 2003 – August 2004_)
     * worked on a suite of CAD programs for apparel design, using Borland C++
       Builder
     * responsible for designing, developing and testing (manual & automation)
