@@ -6,12 +6,19 @@ vgrigoriu@gmail.com
 
 Objective
 ---------
+
 * to keep learning about software engineering while building great software and
   great teams
 
 Experience
 ----------
-* __Technical Dev Lead__ at __Endava Technologies, Bucharest, Romania__ (_April 2017 - Present_)
+
+* __Computer Scientist__ at __Adobe, Bucharest, Romania__ (_April 2018 - present_)
+    * as squad lead, implemented several new features in Adobe Audience Manager,
+      using big data tools such as Hadoop, Spark, AWS, Snowflake
+    * also did maintenance and improved monitoring of existing parts of the solution
+    * as part of on-call duty, kept production systems running round the clock
+* __Technical Dev Lead__ at __Endava Technologies, Bucharest, Romania__ (_April 2017 - April 2018_)
     * led a team of 8 (dev & QA) in implementing EU Funds Transfer Regulation
       for Worldpay, a payments company
     * this involved understanding and making changes in a complex system made
@@ -73,6 +80,7 @@ Experience
 
 Education
 ---------
+
 * __1999 – 2003:__ B.Sc. in Computer Science, “Al. I. Cuza” University, Iasi,
   Romania
 * __2001 – 2002:__ Socrates scholarship at Technical College of Computer Science
@@ -82,6 +90,7 @@ Education
 
 Languages
 ---------
+
 * Romanian: native
 * English: highly proficient
 * French, Spanish, German: basic understanding
