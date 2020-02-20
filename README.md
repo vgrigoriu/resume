@@ -16,7 +16,10 @@ Experience
 * __Computer Scientist__ at __Adobe, Bucharest, Romania__ (_April 2018 - present_)
     * as squad lead, implemented several new features in Adobe Audience Manager,
       using big data tools such as Hadoop, Spark, AWS, Snowflake
-    * also did maintenance and improved monitoring of existing parts of the solution
+    * using Scala, Akka Streams, Kafka & Kubernetes, built a suite of microservices
+      to activate customer data to external destinations, as part of Adobe’s [Real-time
+      Customer Data Platform](https://www.adobe.com/experience-platform/real-time-customer-data-platform.html)
+    * also did maintenance and improved existing components
     * as part of on-call duty, kept production systems running round the clock
 * __Technical Dev Lead__ at __Endava Technologies, Bucharest, Romania__ (_April 2017 - April 2018_)
     * led a team of 8 (dev & QA) in implementing EU Funds Transfer Regulation
