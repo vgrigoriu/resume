@@ -42,6 +42,7 @@ Experience
     knowledge-sharing events
   * organized each year Zero to Hero, a one-month boot camp to teach computer
     science students about software development in the real world
+  * technologies used: C#, WPF, ASP.NET MVC, SQL Server, NHibernate, SignalR etc.
 * __Lead Software Developer__ at __TeamNet, Bucharest, Romania__ (_October 2009 – July 2013_)
   * led the team that successfully built & implemented the GIS software used
     daily by the emergency agencies (112, equivalent to 911) in Romania
