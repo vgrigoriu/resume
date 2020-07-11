@@ -29,7 +29,7 @@ Experience
   * we also improved the performance and availability of the overall system
   * I proposed and implemented cross-team improvements to the software
     development lifecycle
-* __Senior Technical Lead__ at __TeamNet, Bucharest, Romania__ (_July 2013 - April 2017_)
+* __Senior Technical Lead__ at __Teamnet, Bucharest, Romania__ (_July 2013 - April 2017_)
   * software architect for the end-to-end solution that replaced the Romanian
     [112](https://www.sts.ro/en/112-emergency-call-service) emergency call
     handling system in Bucharest
@@ -43,7 +43,7 @@ Experience
   * organized each year Zero to Hero, a one-month boot camp to teach computer
     science students about software development in the real world
   * technologies used: C#, WPF, ASP.NET MVC, SQL Server, NHibernate, SignalR etc.
-* __Lead Software Developer__ at __TeamNet, Bucharest, Romania__ (_October 2009 – July 2013_)
+* __Lead Software Developer__ at __Teamnet, Bucharest, Romania__ (_October 2009 – July 2013_)
   * led the team that successfully built & implemented the GIS software used
     daily by the emergency agencies (112, equivalent to 911) in Romania
   * transformed this project into a product, so that it can be easily
