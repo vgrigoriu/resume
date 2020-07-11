@@ -1,8 +1,8 @@
 Victor Grigoriu
 ===============
 
-vgrigoriu@gmail.com  
-+4 0751 369 848
+[vgrigoriu@gmail.com](mailto:vgrigoriu@gmail.com)  
+[+40 751 369 848](tel:+40-751-369-848)
 
 Objective
 ---------
