@@ -31,7 +31,8 @@ Experience
     development lifecycle
 * __Senior Technical Lead__ at __TeamNet, Bucharest, Romania__ (_July 2013 - April 2017_)
   * software architect for the end-to-end solution that replaced the Romanian
-    112 emergency call handling system in Bucharest
+    [112](https://www.sts.ro/en/112-emergency-call-service) emergency call
+    handling system in Bucharest
   * responsible for software development quality across the organization
     (100+ developers)
   * motivated & helped all the teams to adopt code review, automated testing,
